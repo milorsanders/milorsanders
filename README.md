@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-🌱 3rd year Life Sciences Engineering student at EPFL  
+🌱 Life Sciences Engineering at EPFL --> Biomedical Engineering at ETH
 🔬 Passionate about biomedical engineering, data science, and systems neuroscience
